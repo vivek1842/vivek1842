@@ -21,7 +21,6 @@
 
 ### 📜 **Certifications**  
 - HackerRank: Software Engineer, Frontend (React), SQL (Advanced), Node.js, Problem Solving  
-- AWS Cloud Practitioner (Add link if certified)  
 
 ### 🏆 **Achievements**  
 - 150+ Competitive Programming Problems Solved  
