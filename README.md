@@ -23,7 +23,7 @@
 - HackerRank: Software Engineer, Frontend (React), SQL (Advanced), Node.js, Problem Solving  
 
 ### 🏆 **Achievements**  
-- 150+ Competitive Programming Problems Solved  
+- 200+ Competitive Programming Problems Solved  
 - Open Source Contributor @ Hacktoberfest 2024  
 - Conducted workshops on **Figma** & Web Development  
 
